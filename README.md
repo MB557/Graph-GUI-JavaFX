@@ -14,3 +14,4 @@ Before Running The Application:
 •       Create a new class. (For example, if you have named the class "TestClass", change the line 137 to "public class TestClass extends Application"
 
 NOTE: Refer to the screenshots for further guidance.
+NOTE: The file "testInput.txt" is a sample text input file for importing data.
