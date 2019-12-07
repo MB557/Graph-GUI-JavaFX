@@ -18,9 +18,18 @@ Before Running The Application:
 
 - Ensure that JavaFX is installed in the Eclipse interface.
 
-- Create a new package (of your choice) and rename the package in the code accordingly (the first line of the code is "package application;". If you have created a new package named "Test", then change the first line to "package Test; ")
+- Create a new package (of your choice) and rename the package in the code accordingly (the first line of the code is 
+ > package application;
+ 
+. If you have created a new package named "Test", then change the first line to 
+> package Test;
 
-- Create a new class. (For example, if you have named the class "TestClass", change the line 137 to "public class TestClass extends Application"
+)
+
+- Create a new class. (For example, if you have named the class "TestClass", change the line 137 to 
+> public class TestClass extends Application;
+
+)
 
 __NOTE: Refer to the screenshots for further guidance.__
 
